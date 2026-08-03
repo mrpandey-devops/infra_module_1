@@ -1,0 +1,11 @@
+variable "rgs" {}
+
+variable "vnet" {}
+
+variable "subnet" {}
+
+variable "pip" {}
+
+variable "nics" {}
+
+variable "vms" {}
