@@ -1,0 +1,13 @@
+tools:
+
+  terraform:
+    enabled: true
+
+  tflint:
+    enabled: true
+
+  trivy:
+    enabled: true
+
+  checkov:
+    enabled: true
